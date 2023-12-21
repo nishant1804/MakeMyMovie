@@ -559,9 +559,10 @@ p, a {
 
 
 .aboutAuthor {
-  padding: 60px 0 20px 0;
+  padding: 120px 0 20px 0;
 }
 .aboutAuthor .K2_bio {
+  color: white;
   justify-content: center;
   position: relative;
   display: flex;
@@ -572,14 +573,9 @@ p, a {
   max-width: 70%;
   margin: auto;
   padding: 80px 15px 65px 15px;
-  /*background-color: #FFF;*/
-box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-  border-radius: 10px;
-  border: 2px solid #404040;
-font-family:'Oswald',serif;
+
 }
 .aboutAuthor .K2_bio img {
-  background-image: linear-gradient(to top right,#ffffff,#ffa24d);
   box-shadow: 0 5px 20px rgba(0,0,0,.2);
   padding: 0;
   border: 7px solid #ffc2b4;
